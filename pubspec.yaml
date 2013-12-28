@@ -1,0 +1,4 @@
+name: ${1}
+description: A sample web application
+dependencies:
+  hop: any
